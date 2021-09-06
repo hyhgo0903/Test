@@ -6,6 +6,7 @@ namespace CSharpSample
     {
         static void Main(string[] _)
         {
+            Console.WriteLine("Test");
             return;
         }
     }

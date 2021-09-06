@@ -3,3 +3,6 @@ ConsoleApp3/ConsoleApp3/bin/
 *.suo
 ConsoleApp3/ConsoleApp3/obj/
 ConsoleApp3/.vs/ConsoleApp3/DesignTimeBuild/.dtbcache.v2
+*.testlog
+ConsoleApp3/TestProject1/bin/
+ConsoleApp3/.vs/ConsoleApp3/v16/TestStore/0/testlog.manifest
