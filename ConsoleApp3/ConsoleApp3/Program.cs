@@ -16,12 +16,7 @@ namespace CSharpSample
     {
         static void Main(string[] _)
         {
-            var b = new B();
-
-            if (b?.Data?.Value != false)
-            {
-                Console.WriteLine("Hello World!");
-            }
+            throw new Exception();
         }
     }
 }
